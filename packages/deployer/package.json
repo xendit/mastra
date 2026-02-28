@@ -113,7 +113,7 @@
     "hono": "^4.8.12",
     "package-directory": "^8.1.0",
     "resolve-from": "^5.0.0",
-    "rollup": "~4.46.2",
+    "rollup": "~4.59.0",
     "rollup-plugin-esbuild": "^6.2.1",
     "rollup-plugin-node-externals": "^8.0.1",
     "typescript-paths": "^1.5.1",
