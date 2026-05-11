@@ -27,7 +27,7 @@
   "dependencies": {
     "@inngest/realtime": "^0.3.1",
     "@opentelemetry/api": "^1.9.0",
-    "inngest": "^3.40.1",
+    "inngest": "^3.54.0",
     "zod": "^3.25.67"
   },
   "devDependencies": {
@@ -44,7 +44,7 @@
     "eslint": "^9.30.1",
     "execa": "^9.6.0",
     "get-port": "7.1.0",
-    "hono": "^4.8.12",
+    "hono": "^4.12.18",
     "tsup": "^8.5.0",
     "typescript": "^5.8.3",
     "vitest": "^3.2.4",
